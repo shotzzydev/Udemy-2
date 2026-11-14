@@ -5,8 +5,8 @@ const name3 = `Austin`;
 const num1 = 10;
 const numb2 = 10.52;
 
-let nameStudent; // undefined = não aponta pra local nenhum na memoria
-const lastNameStudent = null; // Nulo -> não aponta pra local nenhum na memoria
+let nameStudent; // undefined = não aponta pra local nenhum na memória
+const lastNameStudent = null; // Nulo -> não aponta pra local nenhum na memória
 const approve = false; // Boolean = true, false (logico)
     
 // console.log(lastNameStudent, typeof lastNameStudent);
